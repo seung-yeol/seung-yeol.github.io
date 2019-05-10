@@ -3,7 +3,7 @@
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: oks153123@naver.com
 brand: 오승열
-headline: 26세 (만 24세)
+headline: 26세
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -18,7 +18,6 @@ snapwidget: 247552
 
 # Contacts
 email: oks153123@naver.com
-phone:
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
